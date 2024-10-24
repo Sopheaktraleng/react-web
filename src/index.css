@@ -1,0 +1,10 @@
+.student{
+  border: 1px solid rgb(38, 20, 154);
+  box-shadow: 5px 5px 5px;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px;
+  padding-left: 50px;
+  font: 1em sans-serif;
+  background-color: rgb(106, 205, 121);
+}
