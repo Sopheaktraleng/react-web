@@ -1,9 +1,8 @@
-import List from "./List";
-
+import TodoList from "./TodoList";
 
 function App() {
   return(
-   <List/>
+    <TodoList/>
   );
 }
 
