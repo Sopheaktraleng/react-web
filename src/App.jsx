@@ -1,8 +1,8 @@
-import TodoList from "./TodoList";
+import Stopwatch from "./Stopwatch";
 
 function App() {
   return(
-    <TodoList/>
+    <Stopwatch/>
   );
 }
 
